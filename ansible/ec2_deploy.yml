@@ -79,6 +79,7 @@
       wait_for:
         port:
           80
+
     - name: Limit the instances count
       hosts: localhost
       tasks:
