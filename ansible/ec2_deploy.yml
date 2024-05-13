@@ -11,7 +11,7 @@
         key_name: devops
         vpc_subnet_id: subnet-05b9ba9a8f46f29af
         tags:
-            Name: Eshop
+            Name: Final project
         count: 1
         security_group: eshop
         network:
